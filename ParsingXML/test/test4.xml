@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idaxs xmlns="http://ida.loni.ucla.edu"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="/xsds/idaxs_2_0.xsd">
+<project xmlns="">
+  <subject>
+    <subjectIdentifier>456_A_7890</subjectIdentifier>
+    <researchGroup>Patient</researchGroup>
+    <subjectSex>M</subjectSex>
+    <subjectInfo item="DX Group">MCI</subjectInfo>
+    <visit>
+      <visitIdentifier>Screening</visitIdentifier>
+      <assessment name="MMSE">
+        <component name="MMSE Total Score">
+        <assessmentScore attribute="MMSCORE">28.0</assessmentScore>
+        </component>
+      </assessment>
+    </visit>
+    <study>
+      <subjectAge>77.21</subjectAge>
+    </study>    
+  </subject>
+</project>
+</idaxs>
